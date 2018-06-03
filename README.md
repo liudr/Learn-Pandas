@@ -11,3 +11,6 @@ All material will be in Jupyter notebooks containing exercises with detailed sol
 > Some quotes go here.
 
 [Google](www.google.com)
+
+__This is important!__
+
