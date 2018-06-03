@@ -5,7 +5,7 @@ All material will be in Jupyter notebooks containing exercises with detailed sol
 
 ### Number 3 header.
 
-** This is going to be bold text. **
+**This is going to be bold text.**
 <br>
 
 > Some quotes go here.
